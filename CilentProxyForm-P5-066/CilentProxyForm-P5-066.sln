@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CilentProxyForm-P5-066", "CilentProxyForm-P5-066\CilentProxyForm-P5-066.csproj", "{E3C37E1F-141D-434F-8434-23D14822D9DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3C37E1F-141D-434F-8434-23D14822D9DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3C37E1F-141D-434F-8434-23D14822D9DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3C37E1F-141D-434F-8434-23D14822D9DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3C37E1F-141D-434F-8434-23D14822D9DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C991A9C-4A00-4F95-BFCF-509621D007BF}
+	EndGlobalSection
+EndGlobal
